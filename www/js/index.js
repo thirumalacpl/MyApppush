@@ -16,7 +16,9 @@
  * specific language governing permissions and limitations
  * under the License.
  */
+  alert('index.js');
 var app = {
+
     // Application Constructor
     initialize: function() {
         this.bindEvents();
